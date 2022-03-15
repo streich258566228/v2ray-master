@@ -1,4 +1,3 @@
-
 install -m 755 v2ray-core/v2* /usr/local/bin/
 install -d  /usr/local/share/v2ray
 install -m 644 v2ray-core/geo*.dat /usr/local/share/v2ray/
