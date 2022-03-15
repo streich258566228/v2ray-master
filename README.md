@@ -1,4 +1,3 @@
 # v2ray-master
-方便的v2ray安装方式
 
-用于本地已有v2ray-core文件情况下的安装，例如计算机无法访问到github需要从本地安装。
+-对https://github.com/v2fly/fhs-install-v2ray的项目进行了一些改动以适用于需要本地安装的情况。
